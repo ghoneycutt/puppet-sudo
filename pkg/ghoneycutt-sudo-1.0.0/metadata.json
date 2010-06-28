@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "dependencies": [
+
+  ],
+  "name": "ghoneycutt-sudo",
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "templates/sudoers.erb": "1a57f01425e0fb9b0b35a4aeac648791",
+    "README": "551a3457854dc1cb333541cf1ed549d3",
+    "tests/init.pp": "63f528ee1d1698fadd336da35dd4ec7a",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "Modulefile": "3d04dd9d25b7f8bd7d67f3d295ad0003",
+    "manifests/init.pp": "21d6bf20cb6cca553d05f1aa70fbbc06"
+  },
+  "types": [
+
+  ]
+}
